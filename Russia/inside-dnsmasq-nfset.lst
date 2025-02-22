@@ -794,4 +794,5 @@ nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/radarr.video/4#inet#fw4#vpn_domains
 nftset=/tmdb.org/4#inet#fw4#vpn_domains
+nftset=/image.tmdb.org/4#inet#fw4#vpn_domains
 nftset=/themoviedb.org/4#inet#fw4#vpn_domains
